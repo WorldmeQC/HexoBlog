@@ -187,6 +187,9 @@ navbar:
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
+    Tags:
+      path: /tags
+      icon: fa-solid fa-tags
     About: 
       path: /about
       icon: fa-regular fa-fingerprint

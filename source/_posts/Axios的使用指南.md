@@ -7,6 +7,7 @@ tags:
 - Vue
 - JavaWeb
 - HTTP
+categories: 前端开发
 ---
 
 ## Axios 的使用指南

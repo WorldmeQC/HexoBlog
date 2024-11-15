@@ -6,6 +6,7 @@ tags:
 - JavaWeb
 - 数据库
 - MyBatis
+categories: 后端开发
 ---
 
 ## MyBatis 框架初识
